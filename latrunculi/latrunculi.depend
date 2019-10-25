@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1566336324 source:c:\users\warre\onedrive\documents\code\latrunculi\board.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"player.h"
+	"referee.h"
+	"board.h"
+	<string>
+
+1566336131 c:\users\warre\onedrive\documents\code\latrunculi\player.h
+	<iostream>
+	<bits/stdc++.h>
+	"player.h"
+	"referee.h"
+	"board.h"
+	<string>
+
+1566336252 c:\users\warre\onedrive\documents\code\latrunculi\referee.h
+	<iostream>
+	<bits/stdc++.h>
+	"player.h"
+	"referee.h"
+	"board.h"
+	<string>
+
+1566336291 c:\users\warre\onedrive\documents\code\latrunculi\board.h
+	<iostream>
+	<bits/stdc++.h>
+	"player.h"
+	"referee.h"
+	"board.h"
+	<string>
+
+1566336043 source:c:\users\warre\onedrive\documents\code\latrunculi\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"player.h"
+	"referee.h"
+	"board.h"
+	<string>
+
+1566336165 source:c:\users\warre\onedrive\documents\code\latrunculi\player.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"player.h"
+	"referee.h"
+	"board.h"
+	<string>
+
+1566336223 source:c:\users\warre\onedrive\documents\code\latrunculi\referee.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"player.h"
+	"referee.h"
+	"board.h"
+	<string>
+
